@@ -1,5 +1,5 @@
 {
-    "url": "<app-url>",      
-  "name": "<app-name>",   
-  "iconUrl": "<app-icon-url>"
+    "url": "http://localhost:5173",      
+  "name": "ApeStore",   
+  "iconUrl": "https://ape.store/img/logo.png"
 }
